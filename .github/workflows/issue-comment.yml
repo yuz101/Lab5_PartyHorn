@@ -1,4 +1,4 @@
-name: funny comment
+name: GIF comment
 on:
   issues:
     types: [opened]
